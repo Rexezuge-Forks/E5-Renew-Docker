@@ -4,7 +4,7 @@ while true; do
     # Your command to be executed
     python /Init.py
 
-    # Sleep for 24 hours (86400 seconds)
-    sleep 86400
+    # Sleep for 4 hours (14400 seconds)
+    sleep 14400
 done
 
